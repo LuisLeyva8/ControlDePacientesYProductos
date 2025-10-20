@@ -55,7 +55,7 @@ const NavBar = () =>{
                                     md:hover:text-[${colorTextHover}] 
                                 `}
                             >
-                                Productos
+                                Producto/Servicio
                             </a>
                         </li>
                         
